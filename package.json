@@ -1,0 +1,27 @@
+{
+  "name": "Scrape-News",
+  "version": "1.0.0",
+  "description": "This will be program that will scrape data from a news site and store the data in my database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amygemme81/Scrape-News.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amygemme81/Scrape-News/issues"
+  },
+  "homepage": "https://github.com/amygemme81/Scrape-News#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "mongojs": "^2.6.0"
+  }
+}
