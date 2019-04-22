@@ -1,4 +1,4 @@
-# Foobar
+# Data Scraper
 
 This a a data scraping exercise using MYSQL and Javascript/NodeJS. 
 
